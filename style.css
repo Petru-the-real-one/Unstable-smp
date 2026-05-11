@@ -1,0 +1,23 @@
+* {
+  background-color: black;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
+.card {
+  border: 15px solid #19d4c7;
+  width: 275px;
+  text-align: center;
+}
+.card img {
+  width: 100%;
+}
+.gallery {
+  display: flex;
+  justify-content: space-evenly;
+}

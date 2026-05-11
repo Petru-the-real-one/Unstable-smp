@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+.title {
+  color: white;
+  text-align: center;
+}
+.card {
+  display: flex;
+  color: white;
+  height: 300px;
+  width: 80%;
+  margin: auto;
+  background-color: black;
+}
+.center-text {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.right-text {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
